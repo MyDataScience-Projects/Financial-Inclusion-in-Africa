@@ -1,0 +1,5 @@
+data/processed/
+submissions/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
